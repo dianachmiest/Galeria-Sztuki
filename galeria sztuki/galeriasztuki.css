@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300&display=swap');
+h1 {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-size: 80px;
+    color: rgb(165, 145, 135);
+    padding-top: 15%;
+    
+}
+section {
+    text-align: center;
+}
+header {
+    text-align: center;
+   
+    
+}
+a {
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+    text-decoration : none;
+    color: rgb(136, 136, 136);
+}
+p {
+    font-family: 'Dosis', sans-serif;
+    font-size: 17px;
+    
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+}
+footer {
+    background-color: rgb(202, 190, 185);
+    padding: 5px;
+    color: white;
+    margin-top: 2%;
+    
+}
+html {
+    background-color: rgb(255, 248, 241);
+}
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+}
+

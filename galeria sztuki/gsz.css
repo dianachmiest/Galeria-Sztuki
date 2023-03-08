@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300&display=swap');
+header {
+    font-family: 'M PLUS 1p', sans-serif;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(165, 145, 135);
+}
+img{
+    padding-left: 50px;
+}
+h3 {
+    font-family: 'Rokkitt', serif;
+    font-size: 30px;
+}
+section {
+    text-align: center;
+    
+}
+html {
+    background-color: rgb(255, 248, 241);
+}
